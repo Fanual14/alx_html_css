@@ -15,3 +15,9 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+logo{
+    font-size: 36px;       /* size of the logo */
+    font-weight: bold;     /* make it bold */
+    color: #cee710;        /* color of the logo */
+    font-family: Arial, sans-serif; /* font style */
+}
